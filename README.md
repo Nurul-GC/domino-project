@@ -1,6 +1,7 @@
 # Domino (projecto)
 
     Construcao de um jogo *Domino* na linguaguem python
+    com base em algoritmos personalizados
 
 ---
 

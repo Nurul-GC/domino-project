@@ -1,6 +1,6 @@
 # Domino (projecto)
 
-Construcao de um jogo **Dominó** na linguaguem python
+Construção de um jogo **Dominó** na linguaguem python
 com base em algoritmos personalizados e na:
 
 - Monograﬁa apresentada ao curso de Ciência

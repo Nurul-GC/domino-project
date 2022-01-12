@@ -8,7 +8,7 @@ da Computação da Universidade Federal do
 Maranhão, como parte dos requisitos necessários para obtenção
 do grau de Bacharel em Ciência da Computação,
 de: **Ivan de Jesus Pereira Pinto**,
-com tema: **Inteligência Artiﬁcial aplicada ao Jogo de Dominó**.
+com tema: [**Inteligência Artiﬁcial aplicada ao Jogo de Dominó**](src/MONOGRAFIA-IVAN-PINTO.pdf).
 
 ---
 

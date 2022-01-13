@@ -1,6 +1,5 @@
-from pprint import pprint
-from ia.pecas import P3S
 from unittest import TestCase
+from ia.pecas import P3S
 
 
 class TestPecas(TestCase):
